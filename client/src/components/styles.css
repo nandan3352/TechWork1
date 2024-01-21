@@ -1,0 +1,15 @@
+/* styles.css */
+.myImage {
+    width: 70vw; /* Specify your desired width as 50% of the viewport width */
+    max-width: 70%; /* Ensure the image does not exceed its natural size */
+    height: 30vw; /* Maintain the aspect ratio */
+    display: block;
+    margin: 0 auto;
+  }
+  .container {
+    /*width: 100%; /* Ensure the container takes the full width of its parent */
+    text-align: center; /* Center the child element horizontally within the container */
+    margin-top: 15vh;
+}
+  
+  
